@@ -1,94 +1,153 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <link rel="stylesheet" type="text/css" href="css2/index.css">
-    <!-- <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Nosifer&display=swap">-->
+   <head>
+    <title>我的專案(10)</title>
+   </head>
+   <body>
+   <div>
+       <header style="background:pink; color:white;">
+       <span style="width:30%; display:inline-block;">自我介紹</span>
+       <span style="width:300px;"></span>
+       <nav style="width:40%; display:inline-block;">
+       
+       <a href="https://www.foodmaplewin.com">小黃流浪</a> &nbsp;
+       <a href="https://www.google.com">google</a>&nbsp; 
+           <a href="page,1.html" target="_blank">第一頁</a>&nbsp; 
+           <a href="page,2.html">第二頁</a>&nbsp;
+           <a href="page,3.html">第三頁</a>&nbsp;
+           <a href="page,4.html">第四頁</a>&nbsp;
+            </nav>
+           </header>
+           <hr>
+           
+       <main>
+            <article style="display:inline-block;width:700px;">
+            
+            <section id="section-1-title" style="background: yellow;">
+             <h1>第1段</h1>
+             <a href="#section-2-title">第2段</a>
+             <a href="#section-3-title">第3段</a>
+             <p>我的文章內容 我的文章內容 我的文章內容 我的文章內容 我的文章內容 我的文章內容</p>
+             <p>我的文章內容 我的文章內容 我的文章內容 我的文章內容 我的文章內容 我的文章內容</p>  
+             <p>我的文章內容 我的文章內容 我的文章內容 我的文章內容 我的文章內容 我的文章內容</p>
+             <p>我的文章內容 我的文章內容 我的文章內容 我的文章內容 我的文章內容 我的文章內容</p>
+             <p>我的文章內容 我的文章內容 我的文章內容 我的文章內容 我的文章內容 我的文章內容</p>
+             <p>我的文章內容 我的文章內容 我的文章內容 我的文章內容 我的文章內容 我的文章內容</p>
+               </section>
+               
+               <section id="section-2-title" style="background: gray;">
+            <h1>第2段</h1>
+            <a href="#section-1-title">跳到第1段</a>
+            <a href="#section-3-title">跳到第3段</a>
+            <p>這是文章 這是文章 這是文章 這是文章 這是文章 這是文章</p>
+            <p>這是文章 這是文章 這是文章 這是文章 這是文章 這是文章</p>
+            <p>這是文章 這是文章 這是文章 這是文章 這是文章 這是文章</p>
+            <p>這是文章 這是文章 這是文章 這是文章 這是文章 這是文章</p>
+            <p>這是文章 這是文章 這是文章 這是文章 這是文章 這是文章</p>
+               </section>
+               
+               <section id="section-3-title" style="background: green;">
+             <h1>第3段</h1>
+             <a href="#section-1-title">跳到第1段</a>
+             <a href="#section-2-title">跳到第2段</a>
+            <p>這是文章 這是文章 這是文章 這是文章 這是文章 這是文章</p>
+            <p>這是文章 這是文章 這是文章 這是文章 這是文章 這是文章</p>
+            <p> 重要!!!!!!這是文章 這是文章 這是文章 這是文章 這是文章</p>
+            <p>這是文章 這是文章 這是文章 這是文章 這是文章 這是文章</p>
+            <p>這是文章 這是文章 這是文章 這是文章 這是文章 這是文章</p>
+               
+               </section>
+               </article>
+               
+               
+           <aside style="display: inline-block; width:300px;">
+              <section style="background:yellow;">
+               文章廣告 文章廣告 文章廣告 文章廣告 文章廣告 文章廣告
+               文章廣告 文章廣告 文章廣告 文章廣告 文章廣告 文章廣告
+               文章廣告 文章廣告 文章廣告 文章廣告 文章廣告 文章廣告
+               文章廣告 文章廣告 文章廣告 文章廣告 文章廣告 文章廣告
+            </section>
+               <section style="background:pink;">
+               文章廣告 文章廣告 文章廣告 文章廣告 文章廣告 文章廣告
+               文章廣告 文章廣告 文章廣告 文章廣告 文章廣告 文章廣告
+               文章廣告 文章廣告 文章廣告 文章廣告 文章廣告 文章廣告
+               文章廣告 文章廣告 文章廣告 文章廣告 文章廣告 文章廣告
+            </section>
+               <section style="background:blue;">
+               文章廣告 文章廣告 文章廣告 文章廣告 文章廣告 文章廣告
+               文章廣告 文章廣告 文章廣告 文章廣告 文章廣告 文章廣告
+               文章廣告 文章廣告 文章廣告 文章廣告 文章廣告 文章廣告
+               文章廣告 文章廣告 文章廣告 文章廣告 文章廣告 文章廣告
+            </section>
+            <hr/>
+       <img style="width:300px;" src="https://images.pexels.com/photos/2045295/pexels-photo-2045295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;">
+       </aside>
+       </main>
+    <hr/>
+    <table border="1" style="width:90%;">
+       <thead>
+        <tr>
+            <th style="width:30%">姓別:</th>
+            <th style="width:30%">名字:</th>
+            <th style="width:20%">班別:</th>
+            <th style="widht:20%">分數:</th>
+        </tr>   
+       </thead>
+         <tbody>
+          <td>male</td>
+          <td>Jonson</td>
+          <td>A班</td>
+          <td>95分</td>   
+         </tbody>
+         <tbody>
+          <td>female</td>
+          <td>Jennifer</td>
+          <td>A班</td>
+          <td>98分</td>   
+         </tbody>
+         <tbody>
+          <td>female</td>
+          <td>Marry</td>
+          <td>A班</td>
+          <td>80分</td> 
+          </tbody>
+        <tfooter>
+         <tr>
+            <td>
+            總人數.3    
+            </td>
+            <td>
+            平均值.Q    
+            </td>
+            <td>
+            班數.1    
+            </td> 
+            <td>
+            平均值.91    
+            
+            </tr>
+            <tr>
+                <td colspan="4" style="text-align: left">
+                 Summed up:  good in A.class.   
+                </td>
+            </tr>   
+        </tfooter>
+    </table>
+        <hr/>
+    <footer style="background: gray; color:white;">
     
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@700&display=swap">
+       <ul style="list-style-type:square;">
+           <li>
+           <a herf="mailto: lawin42600@gmail.com.com">聯絡我們:</a>
+           </li>
+           <li>最新圖片 2</li>
+           <li>最新圖片 2</li>
+       </ul>
+       <address>
+        台中市,中港路
+       </address>
+</footer>
     
-    
-</head>
-    <body>
-        <style>
-       /* latin-ext */
-/*@font-face {
-  font-family: 'Nosifer';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/nosifer/v11/ZGjXol5JTp0g5bxZWCRbVQNd.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+ */
-        </style>
-    <header id="background-cover">
-<div class="title-container" >
-<div class="title-inner-container">
-    <h1 id="page-title" style="font-size:54px">lawincss練習2</h1>
-    <button class="title-button" type="button">探索網站</button>
-    <button class="title-button" type="button">註冊</button> 
-</div>    
-</div>
-     </header>
-    <a href="#background-cover">
-    <button type="button" class= "middle_button">
-      ▲ 
-    </button>
-    </a>
-    <span> 作者專區</span>   
-    <div style="display: inline-block; float:right;">
-         <button type="button";> Npage</button>
-     </div>
-     <br style="clear:both;"/>
-    <div>
-        <img src="https://images.pexels.com/photos/2681319/pexels-photo-2681319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" style="height:200px; border-style:solid; border-width:15px; border-color:red; border-radius:30px;">
-    </div>
-       <section>
-        <p class="title">section1</p>
-        <div class="description">
-         section 1 description, section 1 description,
-         section 1 description, section 1 description,
-         section 1 description, section 1 description,
-         section 1 description, section 1 description,
-        </div>
-        <div>
-            <a href="#" class="read-more">read more...</a>
-        </div>    
-    </section>
-    <section>
-        <p class="title">section2</p>
-        <div class="description">
-         section 2 description, section 2 description,
-         section 2 description, section 2 description,
-         section 2 description, section 2 description,
-         section 2 description, section 2 description,   
-        </div>
-        <div>
-         <a href="#" class="read-more">read more...</a>
-        </div>        
-    </section>
-    <section>
-        <p class="title">section3</p>
-        <div class="description">
-         section 3 description, section 3 description,
-         section 3 description, section 3 description,
-         section 3 description, section 3 description,
-         section 3 description, section 3 description,
-         </div>
-         <div>
-          <a href="#" class="read-more">read more...</a>
-         </div>
-       </section>
-       <section>
-        <p class="title">section4</p>
-        <div class="description">
-         section 4 description, section 4 description,
-         section 4 description, section 4 description,
-         section 4 description, section 4 description,
-         section 4 description, section 4 description,
-         </div>
-         <div>
-          <a href="#" class="read-more">read more...</a>
-         </div>
-       </section>
-        
-    </body>
+    </div>   
+   </body>
 </html>
